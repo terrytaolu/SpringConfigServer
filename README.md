@@ -1,2 +1,0 @@
-# SpringConfigServer
-spring cloud config
